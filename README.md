@@ -1,4 +1,4 @@
-# Notes App - Full Stack React Application
+# INK : Notes App - Full Stack React Application
 
 A full-stack serverless notes application built with **React**, **AWS Amplify Gen 2**, **TypeScript**, and deployed on AWS cloud infrastructure. This application allows users to securely create, manage, and delete notes with image attachments.
 
