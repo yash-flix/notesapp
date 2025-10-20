@@ -4,7 +4,7 @@ A full-stack serverless notes application built with **React**, **AWS Amplify Ge
 
 ## 🚀 Live Demo
 
-Visit the deployed app: `https://main.amplifyapp.com` *(Replace with your actual Amplify URL)*
+Visit the deployed app: `https://main.dbxo9ei0aif6o.amplifyapp.com/` 
 
 ## ✨ Features
 
